@@ -1,7 +1,5 @@
 # Module1Challange
 
-# Module 1 Challange 
-
 ## Description
 
 Module1 Challenge for UM Coding Bootcamp - Adding accessibility to a website. 
